@@ -364,7 +364,7 @@ $$\sigma^2 = { 1 \over \lambda^2 }$$
 
 ## توزیع نرمال
 
-$${1 \over \sigma\sqrt {2\pi}} \times e^{-{1 \over 2} \ \left( {x - \micro} \over \sigma \right) }\ ,\ x \in \mathbb{R}$$
+$${1 \over \sigma\sqrt {2\pi}} \times e^{-{1 \over 2} \ \left( {x - \micro} \over \sigma \right)^2 }\ ,\ x \in \mathbb{R}$$
 - که $\micro$ میانگین و $\sigma$ انحراف معیار است .
 امید ریاضی $E_{(x)} = \micro$ و واریانس $\sigma^2$ است .
 
